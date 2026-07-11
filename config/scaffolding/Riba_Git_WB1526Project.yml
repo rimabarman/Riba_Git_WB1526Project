@@ -18,11 +18,6 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
-- name: InvoiceProcessing
-  gitServerName: rimaSCName
-  gitUrl: https://github.com/Mohamed-Naufal-A-IBM/kj_multi-package-test
-  gitUsername: rimabarman
-  gitBranch: main
 configurationVariables:
   jdbc.SAP TxStore Pool.maxConns: "10"
   jdbc.SAP TxStore Pool.spyparms: SpyAttributes=(log=(file)logs/spy/SAP_TxStore_Pool.log;logTName=yes;timestamp=yes)
