@@ -23,11 +23,6 @@ packages:
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
   gitBranch: master
-- name: PackY
-  gitServerName: rimaSCName
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: rimabarman
-  gitBranch: main
 - name: TEST4
   gitServerName: rimaSCName
   gitUrl: https://github.com/Mohamed-Naufal-A-IBM/kj_multi-package-test

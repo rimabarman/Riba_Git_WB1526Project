@@ -13,20 +13,19 @@
     <value name="Pack_VersionManagement">1.0</value>
     <value name="TPP_services_in_FCS">1.0</value>
     <value name="AddPublicService">7.0</value>
-    <value name="PackY">1.0</value>
     <value name="TEST4">2.2</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">10</value>
+  <value name="build">11</value>
   <null name="description"/>
   <value name="created_date">11-07-2026 11:36:04 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-07-11T15:06:15.175059857Z</value>
+  <value name="lastUpdated">2026-07-11T15:06:29.558325545Z</value>
   <value name="wmProjectId">flfeec293e966f4a799f203d86ffda49ef</value>
   <value name="creator">Rima Barman</value>
 </Values>
