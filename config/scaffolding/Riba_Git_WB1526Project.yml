@@ -18,6 +18,11 @@ packages:
   gitUrl: https://github.com/Karthik-V-IBM-10
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
+- name: AddPublicService
+  gitServerName: srcCtrl_gitlab_Arti
+  gitUrl: https://gitlab.com/ArtiKhareGitlab
+  gitUsername: ArtiKhareGitlab
+  gitBranch: master
 configurationVariables:
   jdbc.SAP TxStore Pool.maxConns: "10"
   jdbc.SAP TxStore Pool.spyparms: SpyAttributes=(log=(file)logs/spy/SAP_TxStore_Pool.log;logTName=yes;timestamp=yes)
