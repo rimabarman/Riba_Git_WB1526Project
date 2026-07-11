@@ -27,7 +27,7 @@ packages:
   gitServerName: rimaSCName
   gitUrl: https://github.com/Mohamed-Naufal-A-IBM/kj_multi-package-test
   gitUsername: rimabarman
-  gitBranch: test1
+  gitBranch: main
 configurationVariables:
   jdbc.SAP TxStore Pool.maxConns: "10"
   jdbc.SAP TxStore Pool.spyparms: SpyAttributes=(log=(file)logs/spy/SAP_TxStore_Pool.log;logTName=yes;timestamp=yes)
